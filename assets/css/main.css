@@ -2592,6 +2592,8 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		border-radius: 10px;
+		
 	}
 
 		.image img {
@@ -2622,6 +2624,7 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 		}
 
 			.image.fit:first-child {
@@ -2630,20 +2633,25 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+				
 			}
 
 		.image.main {
 			display: block;
 			margin: 4rem 0;
 			width: 100%;
+			
 		}
 
 			.image.main:first-child {
 				margin-top: 0;
+				box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 			}
 
 			.image.main img {
 				width: 100%;
+				border-radius: 10px;
+				box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 			}
 
 		@media screen and (max-width: 736px) {
@@ -3233,7 +3241,7 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #000000;
+			background-color: #ffffff;
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.png");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3815,7 +3823,19 @@ input, select, textarea {
 
 			}
 
+			@media screen and (max-width: 980px) {
+				#main {
+					border-top-left-radius: 15px;
+					border-top-right-radius: 15px;
+				}
+			}
+
 			@media screen and (max-width: 736px) {
+
+				#main {
+					border-top-left-radius: 15px;
+					border-top-right-radius: 15px;
+				}
 
 				#main > .post {
 					padding: 4rem 2rem 2rem 2rem ;

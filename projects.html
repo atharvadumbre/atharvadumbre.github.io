@@ -27,9 +27,9 @@
 					</ul>
 				</div> -->
 				<!-- Header -->
-					<header id="header">
-						
-					</header>
+					<br>
+					<br>
+					<br>
 
 				<!-- Nav -->
 					<nav id="nav">
@@ -56,7 +56,8 @@
 									<h2>Showcasing Innovation and Impact</h2>
 									<p>Harnessing Advanced Technologies: Python, Power Bi, LLM's, LangChain, and More</p>
 								</header>
-								<a href="#" class="image main"><img src="images/filler.jpg" alt="" /></a>
+								
+								<div class="image main"><img src="images/filler.jpg" alt="" /></div>
 								
 							</article>
 
@@ -177,35 +178,21 @@
 					</div>
 
 				<!-- Footer -->
-					<footer id="footer">
-						
-						<section class="split contact">
-							<section>
-								<h3>Phone</h3>
-								<p><a>(862) 381-9846</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a>atharva.dumbre1@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="https://www.linkedin.com/in/atharvadumbre/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/atharvadumbre" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="https://www.kaggle.com/atharvadumbre" class="icon brands fa-kaggle"><span class="label">Kaggle</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+				<script>
+					// Fetch and insert footer
+					fetch('footer.html')
+						.then(response => response.text())
+						.then(data => {
+							document.getElementById('footer-placeholder').innerHTML = data;
+						})
+						.catch(error => console.error('Error loading footer:', error));
+				</script>
 
 				
 
 			</div>
 		</div>
-		<div id="wrapper"><header id="header">
-					
-		</header></div>
+		<br>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>

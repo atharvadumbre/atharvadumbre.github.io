@@ -21,7 +21,7 @@
 					<div id="intro">
 						<h1>Hi, I am Atharva</h1>
 						<p>What am I ?</p>
-						<h3> I'm a Data Scientist / Data Analyst / Data Engineer and an ML / GenAI Engineer</h3>
+						<h3> I'm a Data Scientist</h3>
 						<p>Looking for full-time opportunities in United States</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly"></a></li>
@@ -174,34 +174,20 @@
 
 
 				<!-- Footer -->
-					<footer id="footer">
-						
-						<section class="split contact">
-							<section>
-								<h3>Phone</h3>
-								<p><a>(862) 381-9846</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a>atharva.dumbre1@gmail.com</a></p>
-							</section>
-							<section>
-								<h3>Social</h3>
-								<ul class="icons alt">
-									<li><a href="https://www.linkedin.com/in/atharvadumbre/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-							<li><a href="https://github.com/atharvadumbre" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="https://www.kaggle.com/atharvadumbre" class="icon brands fa-kaggle"><span class="label">Kaggle</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+				<script>
+					// Fetch and insert footer
+					fetch('footer.html')
+						.then(response => response.text())
+						.then(data => {
+							document.getElementById('footer-placeholder').innerHTML = data;
+						})
+						.catch(error => console.error('Error loading footer:', error));
+				</script>
 
 				
 
 			</div>
-			<div id="wrapper"><header id="header">
-						
-			</header></div>
+			<br>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
