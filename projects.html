@@ -11,6 +11,28 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<style>
+			body {
+				animation: fadeInAnimation ease 1s;
+				animation-iteration-count: 1;
+				animation-fill-mode: both;
+			}
+	
+			@keyframes fadeInAnimation {
+				0% {
+					opacity: 0;
+				}
+	
+				100% {
+					opacity: 1;
+				}
+			}
+		</style>
+	
+
+
+
 	</head>
 	<body class="is-preload">
 
@@ -27,9 +49,11 @@
 					</ul>
 				</div> -->
 				<!-- Header -->
+				
 					<br>
 					<br>
 					<br>
+				
 
 				<!-- Nav -->
 					<nav id="nav">
@@ -57,7 +81,8 @@
 									<p>Harnessing Advanced Technologies: Python, Power Bi, LLM's, LangChain, and More</p>
 								</header>
 								
-								<div class="image main"><img src="images/filler.jpg" alt="" /></div>
+								<div class="image main" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';" style="transition: transform 0.5s ease">
+									<img src="images/filler.jpg" alt=""/></div>
 								
 							</article>
 
@@ -109,12 +134,12 @@
 								<article>
 									<header>
 										<span class="date">April, 2024</span>
-										<h2>pdf chatter</h2>
+										<h2>RAG System for PDF'S</h2>
 									</header>
 									<a href="https://github.com/atharvadumbre/LangChain-RAG-pdf" class="image fit"><img src="images/pdf-chatter.PNG" alt="" /></a>
 									<h3>Tech Stack: Python, StreamLit, LangChain, Google Flan T5 LLM</h3>
 									<p>
-										Enhancing PDF Interactions: Fast, Context-Aware AI Responses with PDF Chatter.
+										Enhancing PDF Interactions: Fast, Context-Aware AI Responses with RAG system built on user input in the form of PDF's.
 									</p>
 									<ul class="actions special">
 										<li><a href="https://github.com/atharvadumbre/LangChain-RAG-pdf" class="button">Github Link</a></li>
@@ -179,25 +204,26 @@
 
 				<!-- Footer -->
 				<footer id="footer">
-					<section class="split contact">
-						<section>
-							<h3>Phone</h3>
-							<p><a>(862) 381-9846</a></p>
-						</section>
-						<section>
-							<h3>Email</h3>
-							<p><a>atharva.dumbre1@gmail.com</a></p>
-						</section>
-						<section>
-							<h3>Social</h3>
-							<ul class="icons alt">
-								<li><a href="https://www.linkedin.com/in/atharvadumbre/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-								<li><a href="https://github.com/atharvadumbre" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="https://www.kaggle.com/atharvadumbre" class="icon brands fa-kaggle"><span class="label">Kaggle</span></a></li>
-							</ul>
-						</section>
+					
+					<section >
+						
+						<h3>Phone</h3>
+						<p><a href="tel:+18623819846">(862) 381-9846</a></p>
 					</section>
-				</footer>
+						<section>
+						<h3>Email</h3>
+						<p><a href="mailto:atharva.dumbre1@gmail.com">atharva.dumbre1@gmail.com</a></p>
+					</section>
+
+					<section style="text-align: center;">
+						<ul class="icons alt">
+							<li><a href="https://www.linkedin.com/in/atharvadumbre/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="https://github.com/atharvadumbre" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.kaggle.com/atharvadumbre" class="icon brands fa-kaggle"><span class="label">Kaggle</span></a></li>
+						</ul>
+
+				</section>
+			</footer>
 				
 
 				
