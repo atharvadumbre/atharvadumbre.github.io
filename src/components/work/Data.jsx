@@ -57,7 +57,7 @@ export const projectsData = [
         id: 7,
         image:Work7,
         title: 'JAVA Chat Application',
-        category: 'full stack',
+        category: 'web',
         link:"https://github.com/atharvadumbre/Java_chat_application"
     },
     {
@@ -71,7 +71,7 @@ export const projectsData = [
         id: 9,
         image:Work9,
         title: 'Expense Tracker',
-        category: 'full stack',
+        category: 'web',
         link:"https://github.com/atharvadumbre/Track-your-Finance"
     },
     {
@@ -97,7 +97,7 @@ export const projectsNav = [
         name: 'ml/dl',
     },
     {
-        name: 'full stack',
+        name: 'web',
     }
     
 ];
