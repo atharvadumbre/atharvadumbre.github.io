@@ -15,14 +15,14 @@ export const projectsData = [
         id: 1,
         image:Work1,
         title: 'Youtube Channel Analysis',
-        category: 'data analysis & engineering',
+        category: 'data',
         link:"https://github.com/atharvadumbre/YouTube-Data-Engg-Analysis"
     },
     {
         id: 2,
         image:Work2,
         title: 'Codebasics Resume Challenge 1',
-        category: 'data analysis & engineering',
+        category: 'data',
         link:"https://github.com/atharvadumbre/Revenue-Insight-Dashboard"
     },
     {
@@ -43,7 +43,7 @@ export const projectsData = [
         id: 5,
         image:Work5,
         title: 'ATLIQ Sales Analysis',
-        category: 'data analysis & engineering',
+        category: 'data',
         link:"https://github.com/atharvadumbre/Sales_Analysis_atliq"
     },
     {
@@ -91,7 +91,7 @@ export const projectsNav = [
         name: 'gen ai',
     },
     {
-        name: 'data analysis & engineering',
+        name: 'data',
     },
     {
         name: 'ml/dl',
