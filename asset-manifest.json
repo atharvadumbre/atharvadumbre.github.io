@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/atharvadumbre.github.io/static/css/main.9960c131.css",
-    "main.js": "/atharvadumbre.github.io/static/js/main.6a3d0992.js",
+    "main.js": "/atharvadumbre.github.io/static/js/main.0a4abe9f.js",
     "static/media/creative-dalle.PNG": "/atharvadumbre.github.io/static/media/creative-dalle.693ca1860a9cf8b6a977.PNG",
     "static/media/flower.png": "/atharvadumbre.github.io/static/media/flower.f95dd05a8ca79555d192.png",
     "static/media/about.webp": "/atharvadumbre.github.io/static/media/about.98094279014ed8fd78ec.webp",
@@ -9,7 +9,7 @@
     "static/media/oyo.PNG": "/atharvadumbre.github.io/static/media/oyo.a6d070be7e555ca76ef8.PNG",
     "static/media/yt.PNG": "/atharvadumbre.github.io/static/media/yt.9e41b91d70ac3a059a93.PNG",
     "static/media/GPT.PNG": "/atharvadumbre.github.io/static/media/GPT.4589a3fa2786cdb08ce6.PNG",
-    "static/media/AtharvaDumbre_Resume.pdf": "/atharvadumbre.github.io/static/media/AtharvaDumbre_Resume.70d5e7d82b191a516b1a.pdf",
+    "static/media/AtharvaDumbre_Resume.pdf": "/atharvadumbre.github.io/static/media/AtharvaDumbre_Resume.daabdaf778f5efa5c512.pdf",
     "static/media/sales.png": "/atharvadumbre.github.io/static/media/sales.6eeb27467af9cccbb158.png",
     "static/media/data-science-tools.png": "/atharvadumbre.github.io/static/media/data-science-tools.9c4ba5320be3ff1ae0cd.png",
     "static/media/aws-certified-cloud-practitioner.png": "/atharvadumbre.github.io/static/media/aws-certified-cloud-practitioner.108c1c67e1d541a11703.png",
@@ -21,10 +21,10 @@
     "static/media/oracle.jpg": "/atharvadumbre.github.io/static/media/oracle.d7d47a0270cb529de405.jpg",
     "index.html": "/atharvadumbre.github.io/index.html",
     "main.9960c131.css.map": "/atharvadumbre.github.io/static/css/main.9960c131.css.map",
-    "main.6a3d0992.js.map": "/atharvadumbre.github.io/static/js/main.6a3d0992.js.map"
+    "main.0a4abe9f.js.map": "/atharvadumbre.github.io/static/js/main.0a4abe9f.js.map"
   },
   "entrypoints": [
     "static/css/main.9960c131.css",
-    "static/js/main.6a3d0992.js"
+    "static/js/main.0a4abe9f.js"
   ]
 }
