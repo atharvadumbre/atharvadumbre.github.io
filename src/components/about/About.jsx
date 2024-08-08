@@ -14,10 +14,7 @@ const About = () => {
             <img src={AboutImg} alt="" className="about__img" />
             <div className="about__data">
                 <Info />
-                <p className='about__description'> Flexible Data Science Developer with a 
-                    Master's in Computer Science, skilled in Python, TensorFlow, and 
-                    cloud technologies, with a proven track record in data science, 
-                    NLP, and AI-driven projects.</p>
+                <p className='about__description'>Passionate Data Scientist with expertise in AI, Machine Learning, and full-stack development. I have a strong background in machine learning, NLP, and cloud-based data engineering, demonstrated through impactful projects like AI-driven traffic control and custom chatbot development. Committed to leveraging cutting-edge technologies to solve complex problems and drive innovation.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg

@@ -54,7 +54,7 @@ const Data = () => {
                 </svg></h1>
 
                 <h3 className="home__subtitle">Full Stack Data Science Developer</h3>
-                <p className="home__description">I'm data science developer based in New York, and I'm very passionate & dedicated to my work.</p>
+                <p className="home__description">Data Scientist skilled in AI, Machine Learning, and full-stack development, with a proven track record in reinforcement learning, NLP, and cloud-based data engineering solutions.</p>
                 <a href="#contact" className="button button--flex">
                     Say Hello
                     <svg
