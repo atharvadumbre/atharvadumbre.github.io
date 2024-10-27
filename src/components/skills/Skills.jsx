@@ -14,12 +14,12 @@ const Skills = () => {
         <span className="section__subtitle">My Technical Stack</span>
 
         <div className="skills__container container grid">
-            <WebDevelopment />
-            <MachineLearning />
-            <GenAi />
-            <Cloud />
             <Languages />
+            <MachineLearning />
+            <Cloud />
             <ETL />
+            <GenAi />
+            <WebDevelopment />
         </div>
     </section>
   )
