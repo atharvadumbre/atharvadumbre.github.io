@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c7e4b9d.css",
-    "main.js": "/static/js/main.3f71f19e.js",
+    "main.css": "/static/css/main.8dcd456b.css",
+    "main.js": "/static/js/main.411679a8.js",
     "static/media/creative-dalle.PNG": "/static/media/creative-dalle.693ca1860a9cf8b6a977.PNG",
     "static/media/flower.png": "/static/media/flower.f95dd05a8ca79555d192.png",
-    "static/media/about.webp": "/static/media/about.98094279014ed8fd78ec.webp",
+    "static/media/aboutme.jpg": "/static/media/aboutme.462e371125255ac663da.jpg",
     "static/media/profile.png": "/static/media/profile.6a7cd4deae2ccfa4c606.png",
     "static/media/oyo.PNG": "/static/media/oyo.a6d070be7e555ca76ef8.PNG",
     "static/media/yt.PNG": "/static/media/yt.9e41b91d70ac3a059a93.PNG",
+    "static/media/AtharvaDumbre_Resume.pdf": "/static/media/AtharvaDumbre_Resume.e005f8df1dbcaa22ef2d.pdf",
     "static/media/GPT.PNG": "/static/media/GPT.4589a3fa2786cdb08ce6.PNG",
-    "static/media/AtharvaDumbre_Resume.pdf": "/static/media/AtharvaDumbre_Resume.f2e0c9066468879a3771.pdf",
     "static/media/sales.png": "/static/media/sales.6eeb27467af9cccbb158.png",
     "static/media/data-science-tools.png": "/static/media/data-science-tools.9c4ba5320be3ff1ae0cd.png",
     "static/media/aws-certified-cloud-practitioner.png": "/static/media/aws-certified-cloud-practitioner.108c1c67e1d541a11703.png",
@@ -20,11 +20,11 @@
     "static/media/chat.png": "/static/media/chat.09e875ac1a3088614583.png",
     "static/media/oracle.jpg": "/static/media/oracle.d7d47a0270cb529de405.jpg",
     "index.html": "/index.html",
-    "main.3c7e4b9d.css.map": "/static/css/main.3c7e4b9d.css.map",
-    "main.3f71f19e.js.map": "/static/js/main.3f71f19e.js.map"
+    "main.8dcd456b.css.map": "/static/css/main.8dcd456b.css.map",
+    "main.411679a8.js.map": "/static/js/main.411679a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c7e4b9d.css",
-    "static/js/main.3f71f19e.js"
+    "static/css/main.8dcd456b.css",
+    "static/js/main.411679a8.js"
   ]
 }
