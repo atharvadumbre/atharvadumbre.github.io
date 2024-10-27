@@ -9,17 +9,11 @@ const WebDevelopment = () => {
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">HTML</h3>
+                        <h3 className="skills__name">HTML & CSS</h3>
                     </div>
                 </div>
 {/* HTML */}
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">CSS</h3>
-                    </div>
-                </div>
-{/* CSS */}
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
@@ -34,13 +28,7 @@ const WebDevelopment = () => {
                     </div>
                 </div>
 {/* Bootstrap */}
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">Git</h3>
-                    </div>
-                </div>
-{/* Git */}
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
@@ -52,13 +40,7 @@ const WebDevelopment = () => {
             </div>
 
             <div className="skills__group">
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">SQL</h3>
-                    </div>
-                </div>
-{/* SQL */}
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
@@ -66,13 +48,7 @@ const WebDevelopment = () => {
                     </div>
                 </div>
 {/* Flask */}
-                <div className="skills__data">
-                    <i className="bx bx-badge-check"></i>
-                    <div>
-                        <h3 className="skills__name">PHP</h3>
-                    </div>
-                </div>
-{/* PHP */}
+
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>

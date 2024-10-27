@@ -1,6 +1,6 @@
 import React from 'react';
 import "./about.css";
-import AboutImg from '../../assets/about.webp';
+import AboutImg from '../../assets/aboutme.jpg';
 import CV from '../../assets/AtharvaDumbre_Resume.pdf';
 import Info from './Info';
 
@@ -14,7 +14,7 @@ const About = () => {
             <img src={AboutImg} alt="" className="about__img" />
             <div className="about__data">
                 <Info />
-                <p className='about__description'>Passionate Data Scientist with expertise in AI, Machine Learning, and full-stack development. I have a strong background in machine learning, NLP, and cloud-based data engineering, demonstrated through impactful projects like AI-driven traffic control and custom chatbot development. Committed to leveraging cutting-edge technologies to solve complex problems and drive innovation.</p>
+                <p className='about__description'>I’m a Data Engineer with expertise in building and optimizing data pipelines using tools like Apache Spark, Hadoop, and Kafka. I'm proficient in Python, SQL, and Scala, and have hands-on experience with cloud platforms like AWS, Azure, and GCP. I focus on creating scalable data solutions and using data-driven insights to support business decisions.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg

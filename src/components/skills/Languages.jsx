@@ -3,41 +3,34 @@ import React from 'react'
 const Cloud = () => {
   return (
     <div className="skills__content">
-    <h3 className="skills__title">Cloud & Big Data</h3>
+    <h3 className="skills__title">Tools, Languages & IDE's</h3>
     <div className="skills__box">
         <div className="skills__group">
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">AWS</h3>
+                    <h3 className="skills__name">Python</h3>
                 </div>
             </div>
-{/* Power BI */}
+
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Azure</h3>
+                    <h3 className="skills__name">SQL</h3>
                 </div>
             </div>
-{/* Tableau */}
+
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">GCP</h3>
+                    <h3 className="skills__name">R</h3>
                 </div>
             </div>
-{/* Jupyter Notebook */}
+
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Databricks</h3>
-                </div>
-            </div>
-{/* AWS */}
-            <div className="skills__data">
-                <i className="bx bx-badge-check"></i>
-                <div>
-                    <h3 className="skills__name">MapReduce</h3>
+                    <h3 className="skills__name">SAS</h3>
                 </div>
             </div>
 
@@ -49,37 +42,31 @@ const Cloud = () => {
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Docker</h3>
+                    <h3 className="skills__name">Jupyter Notebook</h3>
                 </div>
             </div>
-{/* Docker */}
+
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Hadoop</h3>
+                    <h3 className="skills__name">VS Code</h3>
                 </div>
             </div>
-{/* Kubernetes */}
+
             <div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Spark</h3>
+                    <h3 className="skills__name">Power BI</h3>
                 </div>
             </div>
-{/* Apache Airflow */}
-            <div className="skills__data">
+
+<div className="skills__data">
                 <i className="bx bx-badge-check"></i>
                 <div>
-                    <h3 className="skills__name">Snowflake</h3>
+                    <h3 className="skills__name">Tableau</h3>
                 </div>
             </div>
-{/* Azure */}
-            <div className="skills__data">
-                <i className="bx bx-badge-check"></i>
-                <div>
-                    <h3 className="skills__name">PySpark</h3>
-                </div>
-            </div>
+
 
         </div>
 

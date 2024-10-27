@@ -4,6 +4,8 @@ import WebDevelopment from './WebDevelopment';
 import MachineLearning from './MachineLearning';
 import GenAi from './GenAi';
 import Cloud from './Cloud';
+import Languages from './Languages';
+import ETL from './ETL'
 
 const Skills = () => {
   return (
@@ -16,6 +18,8 @@ const Skills = () => {
             <MachineLearning />
             <GenAi />
             <Cloud />
+            <Languages />
+            <ETL />
         </div>
     </section>
   )

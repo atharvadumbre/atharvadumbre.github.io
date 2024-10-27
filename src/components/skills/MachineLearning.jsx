@@ -38,7 +38,7 @@ const MachineLearning = () => {
 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">Data Engineering</h3>
+                        <h3 className="skills__name">Seaborn</h3>
                     </div>
                 </div>
 {/* Data Engineering */}
@@ -78,7 +78,7 @@ const MachineLearning = () => {
                 <div className="skills__data">
                     <i className="bx bx-badge-check"></i>
                     <div>
-                        <h3 className="skills__name">Data Analysis</h3>
+                        <h3 className="skills__name">SciPy</h3>
                     </div>
                 </div>
 {/* Data Analysis */}

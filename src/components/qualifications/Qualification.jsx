@@ -63,10 +63,10 @@ const Qualification = () => {
         >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Research Assistant - Data Scientist</h3>
-                <span className="qualification__subtitle">Newark, NJ, USA</span>
+                <h3 className="qualification__title">PTC-Data Engineer</h3>
+                <span className="qualification__subtitle">USA</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2024 - 2024
+                  <i className="uil uil-calender-alt"></i>June 2024 - Present
                 </div>
               </div>
               <div>
@@ -82,42 +82,26 @@ const Qualification = () => {
               <span className="qualification__line"></span>
             </div>
               <div>
-                <h3 className="qualification__title">Graduate Teaching Assistant: CS656</h3>
+                <h3 className="qualification__title">NJIT-Data Engineer Research Assistant & Teaching Assistant</h3>
                 <span className="qualification__subtitle">Newark, NJ, USA</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2023 - 2024
+                  <i className="uil uil-calender-alt"></i>Sep 2023 - May 2024
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">AWS AI/ML Intern</h3>
-                <span className="qualification__subtitle">Remote</span>
+                <h3 className="qualification__title">Citus Infotech</h3>
+                <span className="qualification__subtitle">India</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>Oct 2021 - Dec 2021
+                  <i className="uil uil-calender-alt"></i>Aug 2020 - Jul 2022
                 </div>
               </div>
               <div>
               <span className="qualification__rounder"></span>
               <span className="qualification__line"></span>
             </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-              <div>
-              <span className="qualification__rounder"></span>
-              <span className="qualification__line"></span>
-            </div>
-              <div>
-                <h3 className="qualification__title">
-                Cyber Security Intern </h3>
-                <span className="qualification__subtitle">Remote</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>Jan 2021 - Jun 2021
-                </div>
-              </div>
             </div>
 
           </div>

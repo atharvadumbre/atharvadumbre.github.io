@@ -4,8 +4,8 @@ const Data = () => {
   return (
     <div className="home__data">
         <h1 className="home__title">Atharva Dumbre<svg
-                  width="36"
-                  height="36"
+                  width="38"
+                  height="38"
                   viewBox="0 0 48 48"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
@@ -53,8 +53,8 @@ const Data = () => {
                   ></path>
                 </svg></h1>
 
-                <h3 className="home__subtitle">Full Stack Data Science Developer</h3>
-                <p className="home__description">Data Scientist skilled in AI, Machine Learning, and full-stack development, with a proven track record in reinforcement learning, NLP, and cloud-based data engineering solutions.</p>
+                <h3 className="home__subtitle">Data Engineer</h3>
+                <p className="home__description">Proficient Data Engineer with expertise in building scalable data pipelines, optimizing workflows, and utilizing cloud platforms to drive insightful, data-based decisions.</p>
                 <a href="#contact" className="button button--flex">
                     Say Hello
                     <svg
