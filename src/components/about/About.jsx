@@ -14,7 +14,7 @@ const About = () => {
             <img src={AboutImg} alt="" className="about__img" />
             <div className="about__data">
                 <Info />
-                <p className='about__description'>I’m a Data Engineer with expertise in building and optimizing data pipelines using tools like Apache Spark, Hadoop, and Kafka. I'm proficient in Python, SQL, and Scala, and have hands-on experience with cloud platforms like AWS, Azure, and GCP. I focus on creating scalable data solutions and using data-driven insights to support business decisions.</p>
+                <p className='about__description'>A passionate Full Stack Developer with 4+ years of experience delivering innovative and scalable web applications, leveraging expertise in modern frameworks and cloud technologies.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg

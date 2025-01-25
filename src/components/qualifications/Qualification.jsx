@@ -63,7 +63,7 @@ const Qualification = () => {
         >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">PNC-Data Engineer</h3>
+                <h3 className="qualification__title">PNC Financial</h3>
                 <span className="qualification__subtitle">USA</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>June 2024 - Present
@@ -82,7 +82,7 @@ const Qualification = () => {
               <span className="qualification__line"></span>
             </div>
               <div>
-                <h3 className="qualification__title">NJIT-Data Engineer Research Assistant & Teaching Assistant</h3>
+                <h3 className="qualification__title">NJIT</h3>
                 <span className="qualification__subtitle">Newark, NJ, USA</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>Sep 2023 - May 2024

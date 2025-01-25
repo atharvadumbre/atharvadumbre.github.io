@@ -53,8 +53,8 @@ const Data = () => {
                   ></path>
                 </svg></h1>
 
-                <h3 className="home__subtitle">Data Engineer</h3>
-                <p className="home__description">Proficient Data Engineer with expertise in building scalable data pipelines, optimizing workflows, and utilizing cloud platforms to drive insightful, data-based decisions.</p>
+                <h3 className="home__subtitle">Full Stack Developer</h3>
+                <p className="home__description">Dedicated Full Stack Developer with a strong track record of crafting user-focused applications and deploying scalable solutions using modern technologies.</p>
                 <a href="#contact" className="button button--flex">
                     Say Hello
                     <svg
